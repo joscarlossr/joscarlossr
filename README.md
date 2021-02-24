@@ -21,7 +21,6 @@ Sou apaixonado por analisar questões utilizando ferramentas de dados. :chart_wi
 <br/> :books: &nbsp; Estudo Ciência da Computação :computer: na Universidade Vila Velha - 3 / 8.
 <br/> :pushpin: &nbsp; Foco meus estudos em Machine Learning e Desenvolvimento. ​&#129504;
 ​🔌​
-
 <br/> :computer: &nbsp; Minha stack: Python [Numpy / Pandas]
 
 <br/> 🎻💡🎨🏊🎾📚🚿🎭⛺💀🌀❄⏳❔
