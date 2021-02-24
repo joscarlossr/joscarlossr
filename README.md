@@ -1,6 +1,6 @@
 # José Carlos Silva
 
-## o/
+##
 <!--
 **joscarlossr/joscarlossr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,4 +33,4 @@ Sou apaixonado por analisar questões utilizando ferramentas de dados. :chart_wi
 [![Gmail Badge](https://img.shields.io/badge/-joscarlossr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joscarlossr@gmail.com)](mailto:joscarlossr@gmail.com)
 <br/> 
 
-[]
+ o/
