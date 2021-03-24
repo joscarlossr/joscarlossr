@@ -25,7 +25,7 @@ I am passionate about learning new tools and techniques involving data analysis.
 <br/> 🎻💡🎨🏊🎾📚🚿🎭⛺💀🌀❄⏳❔
 <br/> 💬  &nbsp; I enjoy exploring technologies, Music, Tennis, LoL, TV series and movies.
 
-<br/> :email: &nbsp; Feel free to contact me @: [![Linkedin Badge](https://img.shields.io/badge/-JCarlosSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/j-carlos-silva/?locale=en_US)](https://www.linkedin.com/in/j-carlos-silva/?locale=en_US) 
+<br/> :email: &nbsp; Feel free to contact me @: [![Linkedin Badge](https://img.shields.io/badge/-JCarlosSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/j-carlos-silva/?locale=en_US)](https://www.linkedin.com/in/j-carlos-silva/?locale=en_US)
 &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-joscarlossr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joscarlossr@gmail.com)](mailto:joscarlossr@gmail.com)
 <br/> 
