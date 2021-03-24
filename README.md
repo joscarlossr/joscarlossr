@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Atualmente estudo Ciência da Computação na Universidade Vila Velha - 3 / 8.
+- 🔭 Currently studying Computer Science at Universidade Vila Velha.
 - 🌱 Foco meus estudos em Machine Learning e Desenvolvimento.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,19 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Sou apaixonado por analisar questões utilizando ferramentas de dados. :chart_with_upwards_trend::bar_chart:
+I am passionate about learning new tools and techniques involving data analysis.  :chart_with_upwards_trend::bar_chart:
 
-
-:mag_right::battery::calling:  &nbsp; Estou trabalhando na iPlace - Grupo Herval como Assistente de Tecnologia.
-<br/> :books: &nbsp; Estudo Ciência da Computação :computer: na Universidade Vila Velha - 3 / 8.
-<br/> :pushpin: &nbsp; Foco meus estudos em Machine Learning e Desenvolvimento. ​&#129504;
+:mag_right::battery::calling:  &nbsp; Currently working as Technical Assistent at iPlace - Grupo Herval.
+<br/> :books: &nbsp; I am studying Computer Science :computer: at Universidade Vila Velha (UVV).
+<br/> :pushpin: &nbsp; ​&#129504;
 ​🔌​
-<br/> :computer: &nbsp; Minha stack: Python [Numpy / Pandas]
+<br/> :computer: &nbsp; Python [Numpy / Pandas]
 
 <br/> 🎻💡🎨🏊🎾📚🚿🎭⛺💀🌀❄⏳❔
-<br/> 💬  &nbsp; Curto tecnologias, Tennis, LoL, Música, filmes e séries.
+<br/> 💬  &nbsp; I enjoy exploring technologies, Tennis, LoL, Music, TV series and movies.
 
-<br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-JCarlosSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/j-carlos-silva/)](https://www.linkedin.com/in/j-carlos-silva/) 
+<br/> :email: &nbsp; Feel free to contact me @: [![Linkedin Badge](https://img.shields.io/badge/-JCarlosSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/j-carlos-silva/?locale=en_US)](https://www.linkedin.com/in/j-carlos-silva/?locale=en_US) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-joscarlossr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joscarlossr@gmail.com)](mailto:joscarlossr@gmail.com)
 <br/> 
