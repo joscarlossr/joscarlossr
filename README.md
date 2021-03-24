@@ -20,10 +20,10 @@ I am passionate about learning new tools and techniques involving data analysis.
 <br/> :books: &nbsp; I am studying Computer Science :computer: at Universidade Vila Velha (UVV).
 <br/> :pushpin: &nbsp; ​&#129504;
 ​🔌​
-<br/> :computer: &nbsp; Python [Numpy / Pandas]
+<br/> :computer: &nbsp; Python [Numpy / Pandas | Scrapy]
 
 <br/> 🎻💡🎨🏊🎾📚🚿🎭⛺💀🌀❄⏳❔
-<br/> 💬  &nbsp; I enjoy exploring technologies, Tennis, LoL, Music, TV series and movies.
+<br/> 💬  &nbsp; I enjoy exploring technologies, Music, Tennis, LoL, TV series and movies.
 
 <br/> :email: &nbsp; Feel free to contact me @: [![Linkedin Badge](https://img.shields.io/badge/-JCarlosSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/j-carlos-silva/?locale=en_US)](https://www.linkedin.com/in/j-carlos-silva/?locale=en_US) 
 | 
