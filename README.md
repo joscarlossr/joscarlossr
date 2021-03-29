@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am passionate about learning new tools and techniques involving Software ngineering and Data analysis.  :chart_with_upwards_trend::bar_chart:
+I am passionate about learning new tools and techniques involving Software Engineering and Data analysis.  :chart_with_upwards_trend::bar_chart:
 
 :mag_right::battery::calling:  &nbsp; Currently working as Technical Assistent at iPlace - Grupo Herval.
 <br/> :books: &nbsp; I am studying Computer Science :computer: at Universidade Vila Velha (UVV).
