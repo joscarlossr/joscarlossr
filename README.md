@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am passionate about learning new tools and techniques involving Data analytics and Software Engineering.  :chart_with_upwards_trend::bar_chart:
+I am passionate about learning new tools and techniques involving Data analytics, Machine Learning and Software Engineering.  :chart_with_upwards_trend::bar_chart:
 
 :mag_right::battery::calling:  &nbsp; Currently an Data Analytics intern at Autoglass.
 <br/> :books: &nbsp; I am studying Computer Science :computer: at Universidade Vila Velha (UVV).
@@ -26,7 +26,7 @@ I am passionate about learning new tools and techniques involving Data analytics
 <br/> 💬  &nbsp; I enjoy exploring technologies, Music, playing Tennis, LoL, TV series and movies.
 
 <br/> :email: &nbsp; Feel free to contact me @: [![Linkedin Badge](https://img.shields.io/badge/-JCarlosSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/j-carlos-silva/?locale=en_US)](https://www.linkedin.com/in/j-carlos-silva/?locale=en_US)
-&nbsp;
+&nbsp;|
 [![Gmail Badge](https://img.shields.io/badge/-joscarlossr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joscarlossr@gmail.com)](mailto:joscarlossr@gmail.com)
 <br/> 
 
