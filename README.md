@@ -1,4 +1,4 @@
-## José Carlos Silva
+## J Carlos Silva
 
 <!--
 **joscarlossr/joscarlossr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am passionate about learning new tools and techniques involving Data analytics, Machine Learning and Software Engineering.  :chart_with_upwards_trend::bar_chart:
+I am passionate about learning new tools and techniques involving Data Analytics, Machine Learning, and Software Engineering.  :chart_with_upwards_trend::bar_chart:
 
-:mag_right::battery::calling:  &nbsp; Currently an Data Analytics intern at Autoglass.
+:mag_right::bar_chart:  &nbsp; Currently a Data Analytics intern at Autoglass.
 <br/> :books: &nbsp; I am studying Computer Science :computer: at Universidade Vila Velha (UVV).
 <br/> :pushpin: &nbsp; ​&#129504;
 ​🔌​
 <br/> :computer: &nbsp; Python [Numpy / Pandas | Scrapy]
 
 <br/> 🎻💡🎨🏊🎾📚🚿🎭⛺💀🌀❄⏳❔
-<br/> 💬  &nbsp; I enjoy exploring technologies, Music, playing Tennis, LoL, TV series and movies.
+<br/> 💬  &nbsp;  I enjoy exploring technologies, Music, playing Tennis, LoL, TV series, and movies.
 
 <br/> :email: &nbsp; Feel free to contact me @: [![Linkedin Badge](https://img.shields.io/badge/-JCarlosSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/j-carlos-silva/?locale=en_US)](https://www.linkedin.com/in/j-carlos-silva/?locale=en_US)
 &nbsp;|
